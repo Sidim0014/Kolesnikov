@@ -36,4 +36,4 @@ if __name__ == "__main__":
     array = [5, 3, 8, 4, 2]
     print("Bubble:", bubble_sort(array))
     print("Selection:", selection_sort(array))
-    print("Insertion:", insertion_sort(array))
+    print("Insertion:", insertion_sort(array))#this is for test
